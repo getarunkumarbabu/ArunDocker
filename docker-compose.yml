@@ -1,6 +1,7 @@
 version: '2'
 services:
-  getarunkumarbabu/arunimages:
+  Web:
+    image: getarunkumarbabu/arunimages
     build: .
     ports:
      - "5000:5000"
