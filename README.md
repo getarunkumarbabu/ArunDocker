@@ -1,1 +1,1 @@
-Test gihub and jenkins
+Test github and jenkins
